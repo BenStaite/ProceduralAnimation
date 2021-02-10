@@ -1,5 +1,5 @@
-# procedural animation
- procedurally animated humanoids
+# Unity Procedural Animation
+Procedurally animated humanoids using unities IK system
  
  The alien will follow the red ball (Target) with procedurally calculated animation
  
